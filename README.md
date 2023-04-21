@@ -27,5 +27,6 @@ C:\Users\kpowe\bootcamp\Challenge01\Challenge01\Develop\assets\images\lead-gener
 C:\Users\kpowe\bootcamp\Challenge01\Challenge01\Develop\assets\images\online-reputation-management.jpg
 C:\Users\kpowe\bootcamp\Challenge01\Challenge01\Develop\assets\images\search-engine-optimization.jpg
 C:\Users\kpowe\bootcamp\Challenge01\Challenge01\Develop\assets\images\social-media-marketing.jpg
-Starter code:
+Code Source:
 https://github.com/coding-boot-camp/urban-octo-telegram.git
+Worked with 4-5 peers in a study group in zoom 
